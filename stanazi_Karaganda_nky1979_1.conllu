@@ -1,0 +1,144 @@
+@nky
+
+# sent_id = 31
+# text = аа ну я / предпочту конечно сходить в театр на постановку и мы ээ с мужем / часто ходим в театр на различные постановки / кино мы тоже любим и в кинотеатр мы тоже ходим смотрим различные фильмы но это у нас семейные выходы в основном с детьми и на те фильмы которые больше нравятся детям / ааа для себя / я предпочитаю походы в театр
+1	аа	а	INTJ	_	_	5	nsubj	_	_
+2	ну	ну	INTJ	_	_	5	parataxis	_	_
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	5	nsubj	_	_
+4	/	/	PUNCT	_	_	5	punct	_	_
+5	предпочту	предпочитать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+6	конечно	конечно	ADV	_	Degree=Pos	5	parataxis	_	_
+7	сходить	сходить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	csubj	_	_
+8	в	в	ADP	_	_	9	case	_	_
+9	театр	театр	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obl	_	_
+10	на	на	ADP	_	_	11	case	_	_
+11	постановку	постановка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obl	_	_
+12	и	и	CCONJ	_	_	19	cc	_	_
+13	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	19	nsubj	_	_
+14	ээ	э	INTJ	_	_	19	advmod	_	_
+15	с	с	ADP	_	_	16	case	_	_
+16	мужем	муж	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	19	obl	_	_
+17	/	/	PUNCT	_	_	16	punct	_	_
+18	часто	часто	ADV	_	Degree=Pos	19	advmod	_	_
+19	ходим	ходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	_
+20	в	в	ADP	_	_	21	case	_	_
+21	театр	театр	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	19	obl	_	_
+22	на	на	ADP	_	_	24	case	_	_
+23	различные	различный	ADJ	_	Case=Acc|Degree=Pos|Number=Plur	24	amod	_	_
+24	постановки	постановка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	19	obl	_	_
+25	/	/	PUNCT	_	_	26	punct	_	_
+26	кино	кино	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	24	nmod	_	_
+27	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	29	nsubj	_	_
+28	тоже	тоже	PART	_	_	29	advmod	_	_
+29	любим	любить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	19	parataxis	_	_
+30	и	и	CCONJ	_	_	35	cc	_	_
+31	в	в	ADP	_	_	32	case	_	_
+32	кинотеатр	кинотеатр	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	35	obl	_	_
+33	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	35	nsubj	_	_
+34	тоже	тоже	PART	_	_	35	advmod	_	_
+35	ходим	ходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	29	conj	_	_
+36	смотрим	смотреть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	35	xcomp	_	_
+37	различные	различный	ADJ	_	Case=Acc|Degree=Pos|Number=Plur	38	amod	_	_
+38	фильмы	фильм	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	36	obj	_	_
+39	но	но	CCONJ	_	_	48	cc	_	_
+40	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	48	nsubj	_	_
+41	у	у	ADP	_	_	42	case	_	_
+42	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1	48	nmod	_	_
+43	семейные	семейный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	44	amod	_	_
+44	выходы	выход	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	48	nsubj	_	_
+45	в	в	ADP	_	_	46	case	_	_
+46	основном	основное	ADV	_	Degree=Pos	48	obl	_	_
+47	с	с	ADP	_	_	48	case	_	_
+48	детьми	ребенок	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	29	obl	_	_
+49	и	и	CCONJ	_	_	52	cc	_	_
+50	на	на	ADP	_	_	52	case	_	_
+51	те	тот	DET	_	Case=Acc|Number=Plur	52	det	_	_
+52	фильмы	фильм	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	48	conj	_	_
+53	которые	который	PRON	_	Case=Nom	55	nsubj	_	_
+54	больше	больше	ADV	_	Degree=Cmp	55	advmod	_	_
+55	нравятся	нравиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	52	acl:relcl	_	_
+56	детям	ребенок	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	55	iobj	_	_
+57	/	/	PUNCT	_	_	58	punct	_	_
+58	ааа	а	INTJ	_	_	56	nmod	_	_
+59	для	для	ADP	_	_	60	case	_	_
+60	себя	себя	PRON	_	Case=Gen	58	nmod	_	_
+61	/	/	PUNCT	_	_	63	punct	_	_
+62	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	63	nsubj	_	_
+63	предпочитаю	предпочитать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	58	conj	_	_
+64	походы	поход	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	63	obj	_	_
+65	в	в	ADP	_	_	66	case	_	_
+66	театр	театр	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	63	obl	_	SpacesAfter=\n\n
+
+@apy
+
+# sent_id = 33
+# text = амм на какой последней постановке вы были?
+1	амм	ам	INTJ	_	_	7	nsubj	_	_
+2	на	на	ADP	_	_	5	case	_	_
+3	какой	какой	DET	_	Case=Loc|Gender=Fem|Number=Sing	5	det	_	_
+4	последней	последний	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	постановке	постановка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	nmod	_	_
+6	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	5	nsubj	_	_
+7	были	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+8	?	?	PUNCT	_	_	7	punct	_	SpacesAfter=\n\n
+
+@nky
+
+# sent_id = 35
+# text = на последней постановке?
+1	на	на	ADP	_	_	3	case	_	_
+2	последней	последний	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	постановке	постановка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+4	?	?	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
+
+# sent_id = 37
+# text = балет считается?
+1	балет	балет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj:pass	_	_
+2	считается	считать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No
+3	?	?	PUNCT	_	_	2	punct	_	SpacesAfter=\n\n
+
+@apy
+
+# sent_id = 39
+# text = да
+1	да	да		INTJ	_	_	0	root	_	SpacesAfter=\n\n
+
+@nky
+
+# sent_id = 41
+# text = да тогда последняя постановка была был поход ээ в Мариинский театр на новую сцену мы ходили вместе / с дочерью аа когда посещали Санкт-Петербург / и мы ходили на / балет / "Парк"
+1	да	да		INTJ	_	_	7	advmod	_	_
+2	тогда	тогда	ADV	_	Degree=Pos	1	advmod	_	_
+3	последняя	последний	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	постановка	постановка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
+5	была	быть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	_
+6	был	быть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	_
+7	поход	поход	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	16	obj	_	_
+8	ээ	э	INTJ	_	_	7	nmod	_	_
+9	в	в	ADP	_	_	11	case	_	_
+10	Мариинский	Мариинский	!PROPN	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+11	театр	театр	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	nmod	_	_
+12	на	на	ADP	_	_	14	case	_	_
+13	новую	новый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	_
+14	сцену	сцена	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	11	nmod	_	_
+15	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	16	nsubj	_	_
+16	ходили	ходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+17	вместе	вместе	ADV	_	Degree=Pos	23	advmod	_	_
+18	/	/	PUNCT	_	_	20	punct	_	_
+19	с	с	ADP	_	_	20	case	_	_
+20	дочерью	дочь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	17	obl	_	_
+21	аа	а	INTJ	_	_	20	nmod	_	_
+22	когда	когда	SCONJ	_	_	23	mark	_	_
+23	посещали	посещать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	16	advcl	_	_
+24	Санкт-Петербург	Санкт-Петербург	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	23	obj	_	_
+25	/	/	PUNCT	_	_	28	punct	_	_
+26	и	и	CCONJ	_	_	28	cc	_	_
+27	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	28	nsubj	_	_
+28	ходили	ходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	23	conj	_	_
+29	на	на	ADP	_	_	31	case	_	_
+30	/	/	PUNCT	_	_	29	punct	_	_
+31	балет	балет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	28	obl	_	_
+32	/	/	PUNCT	_	_	34	punct	_	_
+33	"	"	SYM	_	_	34	punct	_	SpaceAfter=No
+34	Парк	парк	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	28	obj	_	SpaceAfter=No
+35	"	"	SYM	_	_	34	punct	_	SpacesAfter=\n\n
